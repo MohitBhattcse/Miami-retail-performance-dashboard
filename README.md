@@ -5,6 +5,7 @@
 This project focuses on analyzing retail performance across multiple shops in Miami using **SQL for data preparation** and **Power BI for visualization**.
 
 The dashboard provides actionable insights into **sales trends, customer behavior, and environmental impact (weather conditions)**, helping stakeholders make data-driven decisions.
+<img width="1524" height="843" alt="image" src="https://github.com/user-attachments/assets/8eabef28-f8e1-486e-98bc-0b68a5276327" />
 
 ---
 
